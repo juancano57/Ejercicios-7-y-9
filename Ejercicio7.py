@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 
-# Autor: Diego Fernando Marin
-# Programa: ordenamiento.py
-# Fecha: Sat Oct 3 07:51:18 COT 2015
+# Programa: Ejercicio7.py
 # Descripcion: este programa ordena una lista por distintos metodos
 
 import random, time
