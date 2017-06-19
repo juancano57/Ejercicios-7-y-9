@@ -1,4 +1,7 @@
 # -*- coding: cp1252 -*-
+
+#Programa: Ejercicio9.py
+
 class Nodo:
     """ Esta clase representa cada uno de los Nodos de la lista
    """
@@ -84,7 +87,7 @@ class ListaSimple:
             temp=self.raiz
             self.raiz=self.raiz.siguiente
             temp=None
-            print ("Se eliminó el primer nodo")
+            print ("Se eliminÃ³ el primer nodo")
         pass
  
     def imprimir(self):
